@@ -29,9 +29,9 @@ Each reconstruction has its own geometry, component atlas, and exterior characte
 
 | Engine | Visual character | Modeled elements | Component groups |
 | :--- | :--- | ---: | ---: |
-| **Raptor 1** | Dense exposed pipework, separate housings, and a layered upper assembly. | **8,068** | 64 |
-| **Raptor 2** | Tighter machinery, simpler routing, and a distinctive equipment housing. | **5,777** | 55 |
-| **Raptor 3** | Compact upper machinery and a cleaner, more integrated exterior. | **4,008** | 46 |
+| **Raptor&nbsp;1** | Dense exposed pipework, separate housings, and a layered upper assembly. | **8,068** | 64 |
+| **Raptor&nbsp;2** | Tighter machinery, simpler routing, and a distinctive equipment housing. | **5,777** | 55 |
+| **Raptor&nbsp;3** | Compact upper machinery and a cleaner, more integrated exterior. | **4,008** | 46 |
 
 **17,853 modeled elements in total.** These counts describe the visual reconstructions, including repeated hardware and illustrative internal elements; they are not physical engine part counts.
 
