@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <a href="https://raptor-explorer-black.vercel.app/"><strong>Explore the live experience ↗</strong></a>
+</p>
+
+<p align="center">
   <strong>Three.js</strong> &nbsp;·&nbsp; WebGPU &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; MIT
 </p>
 
